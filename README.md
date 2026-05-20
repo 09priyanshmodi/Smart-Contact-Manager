@@ -52,9 +52,6 @@ Follow these steps to set up and run the project locally.
 - Backend Setup
 - Clone the repository:
 
-*Bash
--git clone -https://github.com/vishalsingh-2004/SmartContactManage
--cd your-project-folder
 
 - Configure your application.properties file with your database connection details.
 
